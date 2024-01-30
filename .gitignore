@@ -1,0 +1,4 @@
+/dump.txt
+venv/
+.vscode/
+__pycache__/
